@@ -6,6 +6,7 @@
 
 # Blob Project: CDN (Open-Source)
 Easy-to-use, customizable, secured, up-to-date and minimalist.
+Added more functions (like Online Upload).
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Blob-Development/cdn-server)
 ![GitHub](https://img.shields.io/github/license/Blob-Development/cdn-server)
